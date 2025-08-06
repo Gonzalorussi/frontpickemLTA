@@ -1,0 +1,178 @@
+[
+    {
+        "id": "100205576309502431",
+        "slug": "furia",
+        "nombre": "FURIA",
+        "code": "FUR",
+        "imagen": "http://static.lolesports.com/teams/FURIA---black.png",
+        "alternativeImage": "http://static.lolesports.com/teams/FURIA---black.png",
+        "backgroundImage": "http://static.lolesports.com/teams/FuriaUppercutFUR.png",
+        "status": "active",
+        "region": "LTA Sur"
+    },
+    {
+        "id": "109480056092207899",
+        "slug": "fluxo",
+        "nombre": "Fluxo W7M",
+        "code": "FXW7",
+        "imagen": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG",
+        "alternativeImage": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG",
+        "backgroundImage": null,
+        "status": "active",
+        "region": "LTA Sur"
+    },
+    {
+        "id": "107598699275015260",
+        "slug": "leviatan-esports",
+        "nombre": "LEVIATÁN",
+        "code": "LEV",
+        "imagen": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
+        "alternativeImage": "http://static.lolesports.com/teams/1643795049373_LEV-OSCUROBlack.png",
+        "backgroundImage": null,
+        "status": "active",
+        "region": "LTA Sur"
+    },
+    {
+        "id": "99566408217955692",
+        "slug": "pain-gaming",
+        "nombre": "paiN Gaming",
+        "code": "PAIN",
+        "imagen": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+        "alternativeImage": "http://static.lolesports.com/teams/1674657070286_pain_preto.png",
+        "backgroundImage": null,
+        "status": "active",
+        "region": "LTA Sur"
+    },
+    {
+        "id": "99566408221961358",
+        "slug": "red-kalunga",
+        "nombre": "RED Kalunga",
+        "code": "RED",
+        "imagen": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+        "alternativeImage": null,
+        "backgroundImage": "http://static.lolesports.com/teams/REDCanidsRED.png",
+        "status": "active",
+        "region": "LTA Sur"
+    },
+    {
+        "id": "113606449173273162",
+        "slug": "isurus-estral",
+        "nombre": "Isurus",
+        "code": "ISG",
+        "imagen": "http://static.lolesports.com/teams/1751441584321_600px-Isurus_Gaming_allmode.png",
+        "alternativeImage": "http://static.lolesports.com/teams/1751441584321_600px-Isurus_Gaming_allmode.png",
+        "backgroundImage": null,
+        "status": "active",
+        "region": "LTA Sur"
+    },
+    {
+        "id": "105397404796640412",
+        "slug": "loud",
+        "nombre": "LOUD",
+        "code": "LOUD",
+        "imagen": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+        "alternativeImage": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+        "backgroundImage": "http://static.lolesports.com/teams/LOUDLLL.png",
+        "status": "active",
+        "region": "LTA Sur"
+    },
+    {
+        "id": "99566408219409348",
+        "slug": "vivo-keyd",
+        "nombre": "Vivo Keyd Stars",
+        "code": "VKS",
+        "imagen": "http://static.lolesports.com/teams/1670542079678_vks.png",
+        "alternativeImage": "http://static.lolesports.com/teams/1670541584344_vks.png",
+        "backgroundImage": null,
+        "status": "active",
+        "region": "LTA Sur"
+    },
+    {
+        "id": "98926509892121852",
+        "slug": "flyquest",
+        "nombre": "FlyQuest",
+        "code": "FLY",
+        "imagen": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+        "alternativeImage": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+        "backgroundImage": null,
+        "status": "active",
+        "region": "LTA Norte"
+    },
+    {
+        "id": "110428362822825796",
+        "slug": "disguised",
+        "nombre": "Disguised",
+        "code": "DSG",
+        "imagen": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+        "alternativeImage": "http://static.lolesports.com/teams/1731496922455_Disguised-Wordmark-Yellow-Main.png",
+        "backgroundImage": null,
+        "status": "active",
+        "region": "LTA Norte"
+    },
+    {
+        "id": "98767991877340524",
+        "slug": "cloud9",
+        "nombre": "Cloud9 Kia",
+        "code": "C9",
+        "imagen": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+        "alternativeImage": "http://static.lolesports.com/teams/1736924120255_C9Kia_IconBlue_Transparent_2000x2000.png",
+        "backgroundImage": "https://lolstatic-a.akamaihd.net/esports-assets/production/team/cloud9-9vnfum22.png",
+        "status": "active",
+        "region": "LTA Norte"
+    },
+     {
+        "id": "99566405941863385",
+        "slug": "lyon-gaming",
+        "nombre": "LYON",
+        "code": "LYON",
+        "imagen": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+        "alternativeImage": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+        "backgroundImage": null,
+        "status": "active",
+        "region": "LTA Norte"
+     },
+     {
+        "id": "98926509885559666",
+        "slug": "team-liquid",
+        "nombre": "Team Liquid",
+        "code": "TL",
+        "imagen": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png",
+        "alternativeImage": null,
+        "backgroundImage": "https://lolstatic-a.akamaihd.net/esports-assets/production/team/team-liquid-4bj1d6p9.png",
+        "status": "active",
+        "region": "LTA Norte"
+     },
+     {
+        "id": "99294153828264740",
+        "slug": "100-thieves",
+        "nombre": "100 Thieves",
+        "code": "100T",
+        "imagen": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+        "alternativeImage": null,
+        "backgroundImage": "http://static.lolesports.com/teams/1633026249718_100Thieves100.png",
+        "status": "active",
+        "region": "LTA Norte"
+     },
+      {
+        "id": "111504538396430510",
+        "slug": "shopify-rebellion",
+        "nombre": "Shopify Rebellion",
+        "code": "SR",
+        "imagen": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+        "alternativeImage": "http://static.lolesports.com/teams/1701424227460_Shopify_Rebellion_2021_lightmode.png",
+        "backgroundImage": null,
+        "status": "active",
+        "region": "LTA Norte"
+      },
+      {
+        "id": "98926509883054987",
+        "slug": "dignitas",
+        "nombre": "Dignitas",
+        "code": "DIG",
+        "imagen": "http://static.lolesports.com/teams/DIG-FullonDark.png",
+        "alternativeImage": "http://static.lolesports.com/teams/DIG-FullonLight.png",
+        "backgroundImage": "http://static.lolesports.com/teams/DignitasDIG.png",
+        "status": "active",
+        "region": "LTA Norte"
+      }
+]

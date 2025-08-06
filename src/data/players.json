@@ -1,0 +1,608 @@
+[
+          {
+            "id": "111734845077420908",
+            "nombre": "Marvin",
+            "club": "FXW7",
+            "imagen": "http://static.lolesports.com/players/1738737182859_image651.png",
+            "role": "ADC"
+          },
+          {
+            "id": "103478281332503056",
+            "nombre": "ProDelta",
+            "club": "FXW7",
+            "imagen": "http://static.lolesports.com/players/1737722884857_image621.png",
+            "role" : "SUPP"
+          },
+          {
+            "id": "111734812721889388",
+            "nombre": "curty",
+            "club": "FXW7",
+            "imagen": "http://static.lolesports.com/players/1718064573191_base.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "99566407784942056",
+            "nombre": "Yampi",
+            "club": "FXW7",
+            "imagen": "http://static.lolesports.com/players/1717072190471_Yampi.png",
+            "role": "JG"
+          },
+          {
+            "id": "107559338252333149",
+            "nombre": "Fuuu",
+            "club": "FXW7",
+            "imagen": "http://static.lolesports.com/players/1738736849056_image648.png",
+            "role" : "MID"
+          },
+           {
+            "id": "103743600803050303",
+            "nombre": "Hidan",
+            "club": "FXW7",
+            "firstName": "Leonardo",
+            "lastName": "Santos",
+            "imagen": "http://static.lolesports.com/players/1738737057609_image650.png",
+            "role": "TOP"
+          },
+          {
+            "id": "108494063372887027",
+            "nombre": "Tatu",
+            "club": "FUR",
+            "imagen": "http://static.lolesports.com/players/1737720151865_image69.png",
+            "role" : "JG"
+          },
+          {
+            "id": "100131733430915231",
+            "nombre": "Guigo",
+            "club": "FUR",
+            "imagen": "http://static.lolesports.com/players/1737719411230_image67.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "99566408211536727",
+            "nombre": "JoJo",
+            "club": "FUR",
+            "imagen": "http://static.lolesports.com/players/1737719808158_image68.png",
+            "role" : "SUPP"
+          },
+          {
+            "id": "103478281329357326",
+            "nombre": "Tutsz",
+            "club": "FUR",
+            "imagen": "http://static.lolesports.com/players/1737720319734_image610.png",
+            "role" : "MID"
+          },
+          {
+            "id": "108613483446049530",
+            "nombre": "Ayu",
+            "club": "FUR",
+            "imagen": "http://static.lolesports.com/players/1737718665203_image65.png",
+            "role": "ADC"
+          },
+          {
+            "id": "105512438075390766",
+            "nombre": "ceo",
+            "club": "LEV",
+            "imagen": "http://static.lolesports.com/players/1737722326955_image619.png",
+            "role": "ADC"
+          },
+          {
+            "id": "99921042943959644",
+            "nombre": "TopLop",
+            "club": "LEV",
+            "firstName": "Nicolás",
+            "lastName": "Marinoni",
+            "imagen": "http://static.lolesports.com/players/1718125396079_TOPLOP.png",
+            "role": "SUPP"
+          },
+          {
+            "id": "105516185566739968",
+            "nombre": "Zothve",
+            "club": "LEV",
+            "imagen": "http://static.lolesports.com/players/1737723229563_image623.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "105397130782159175",
+            "nombre": "SCARY",
+            "club": "LEV",
+            "imagen": "http://static.lolesports.com/players/1737723042068_image622.png",
+            "role" : "JG"
+          },
+          {
+            "id": "100131567589299245",
+            "nombre": "Hauz",
+            "firstName": "Bruno",
+            "club": "LEV",
+            "lastName": "Ferreira",
+            "imagen": "http://static.lolesports.com/players/1717080511615_Hauz.png",
+            "role": "MID"
+          },
+          {
+            "id": "99566407783597200",
+            "nombre": "TitaN",
+            "club": "PAIN",
+            "imagen": "http://static.lolesports.com/players/1737725000079_image632.png",
+            "role": "ADC"
+          },
+          {
+            "id": "103495716778335083",
+            "nombre": "Kuri",
+            "club": "PAIN",
+            "imagen": "http://static.lolesports.com/players/1737724873629_image631.png",
+            "role" : "SUPP"
+          },
+          {
+            "id": "101388913280994733",
+            "nombre": "Wizer",
+            "club": "PAIN",
+            "imagen": "http://static.lolesports.com/players/1737725121923_image633.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "100205576295412145",
+            "nombre": "CarioK",
+            "club": "PAIN",
+            "imagen": "http://static.lolesports.com/players/1737724620517_image629.png",
+            "role" : "JG"
+          },
+          {
+            "id": "105501858782308228",
+            "nombre": "Roamer",
+            "club": "PAIN",
+            "imagen": "http://static.lolesports.com/players/1743851820973_roamer.png",
+            "role" : "MID"
+          },
+          {
+            "id": "111734845200890741",
+            "nombre": "zynts",
+            "club": "RED",
+            "imagen": "http://static.lolesports.com/players/1717437332679_Zynts.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "99566408210057665",
+            "nombre": "fNb",
+            "club": "RED",
+            "imagen": "http://static.lolesports.com/players/1737726189931_image636.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "108395422235497387",
+            "nombre": "frosty",
+            "club": "RED",
+            "imagen": "http://static.lolesports.com/players/1737726319432_image637.png",
+            "role" : "SUPP"
+          },
+          {
+            "id": "109656280616610105",
+            "nombre": "Kaze",
+            "club": "RED",
+            "imagen": "http://static.lolesports.com/players/default-headshot.png",
+            "role" : "MID"
+          },
+          {
+            "id": "112462284750329945",
+            "nombre": "Rabelo",
+            "club": "RED",
+            "imagen": "http://static.lolesports.com/players/1717436782564_Rabelo.png",
+            "role": "ADC"
+          },
+          {
+            "id": "111734539087870444",
+            "nombre": "uZent",
+            "club": "RED",
+            "imagen": "http://static.lolesports.com/players/1717436592048_Uzent.png",
+            "role" : "SUPP"
+          },
+          {
+            "id": "113684241495506037",
+            "nombre": "Mago",
+            "club": "RED",
+            "imagen": "http://static.lolesports.com/players/1743851846626_mago.png",
+            "role" : "MID"
+          },
+          {
+            "id": "105506922297942200",
+            "nombre": "Ackerman",
+            "club": "ISG",
+            "imagen": "http://static.lolesports.com/players/1737720888175_image612.png",
+            "role" : "SUPP"
+          },
+          {
+            "id": "99566408350815597",
+            "nombre": "Josedeodo",
+            "club": "ISG",
+            "imagen": "http://static.lolesports.com/players/1737721462591_image615.png",
+            "role" : "JG"
+          },
+          {
+            "id": "106276221575238438",
+            "nombre": "Snaker",
+            "club": "ISG",
+            "imagen": "http://static.lolesports.com/players/1737721890780_image617.png",
+            "role": "ADC"
+          },
+          {
+            "id": "99566408537963625",
+            "nombre": "Leza",
+            "club": "ISG",
+            "imagen": "http://static.lolesports.com/players/1718125342448_Leza.png",
+            "role": "ADC"
+          },
+          {
+            "id": "110451311575097696",
+            "nombre": "Zoen",
+            "club": "ISG",
+            "imagen": "http://static.lolesports.com/players/1718125437055_Zoen.png",
+            "role": "ADC"
+          },
+          {
+            "id": "99566407763820708",
+            "nombre": "Robo",
+            "club": "LOUD",
+            "imagen": "http://static.lolesports.com/players/1737723626723_image624.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "100174429498252618",
+            "nombre": "Route",
+            "club": "LOUD",
+            "imagen": "http://static.lolesports.com/players/1737723729922_image625.png",
+            "role": "ADC"
+          },
+          {
+            "id": "107577675767857598",
+            "nombre": "Gryffinn",
+            "club": "LOUD",
+            "firstName": "Johnson",
+            "lastName": "Hoang le",
+            "imagen": "http://static.lolesports.com/players/default-headshot.png",
+            "role": "JG"
+          },
+          {
+            "id": "104016422094844578",
+            "nombre": "Jool",
+            "club": "LOUD",
+            "firstName": "Dong su",
+            "lastName": "Kang",
+            "imagen": "http://static.lolesports.com/players/1713340635374_LJL_Portraits_lolesports_BCT_JOOL.png",
+            "role": "MID"
+          },
+          {
+            "id": "98767975947296513",
+            "nombre": "RedBert",
+            "club": "LOUD",
+            "imagen": "http://static.lolesports.com/players/1743851436762_redbert.png",
+            "role" : "SUPP"
+          },
+          {
+            "id": "107559111166843860",
+            "nombre": "Boal",
+            "club": "VKS",
+            "imagen": "http://static.lolesports.com/players/1737726719429_image640.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "102181528883745160",
+            "nombre": "Trymbi",
+            "club": "VKS",
+            "imagen": "http://static.lolesports.com/players/1737727080775_image644.png",
+            "role" : "SUPP"
+          },
+          {
+            "id": "108395451349202875",
+            "nombre": "Morttheus",
+            "club": "VKS",
+            "imagen": "http://static.lolesports.com/players/1737726984266_image643.png",
+            "role": "ADC"
+          },
+          {
+            "id": "105397234464043531",
+            "nombre": "Disamis",
+            "club": "VKS",
+            "imagen": "http://static.lolesports.com/players/1737726809094_image641.png",
+            "role" : "JG"
+          },         
+          {
+            "id": "104266800049354578",
+            "nombre": "Mireu",
+            "club": "VKS",
+            "imagen": "http://static.lolesports.com/players/1737721682485_image616.png",
+            "role" : "MID"
+          },
+          {
+            "id": "108369186353082038",
+            "nombre": "Massu",
+            "club": "FLY",
+            "imagen": "http://static.lolesports.com/players/1726214536898_FLY_1500x1500_MASSU_01.png",
+            "role": "ADC"
+          },
+          {
+            "id": "111686531260879329",
+            "nombre": "Gakgos",
+            "club": "FLY",
+            "imagen": "http://static.lolesports.com/players/1717747069637_gakgo.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "99322214662601038",
+            "nombre": "Bwipo",
+            "club": "FLY",
+            "imagen": "http://static.lolesports.com/players/1726214520661_FLY_1500x1500_BWIPO_01.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "101389713966873995",
+            "nombre": "Inspired",
+            "club": "FLY",
+            "imagen": "http://static.lolesports.com/players/1726214526028_FLY_1500x1500_INSPIRED_02.png",
+            "role" : "JG"
+          },
+          {
+            "id": "106625308523122120",
+            "nombre": "Busio",
+            "club": "FLY",
+            "imagen": "http://static.lolesports.com/players/1726214542843_FLY_1500x1500_BUSIO_01.png",
+            "role" : "SUPP"
+          },
+          {
+            "id": "110219103969081067",
+            "nombre": "Quad",
+            "club": "FLY",
+            "imagen": "http://static.lolesports.com/players/1726214531962_FLY_1500x1500_QUAD_01.png",
+            "role" : "MID"
+          },
+          {
+            "id": "105913330212838498",
+            "nombre": "DARKWINGS",
+            "club": "DSG",
+            "imagen": "http://static.lolesports.com/players/1645004464260_DARKWINGS.png",
+            "role" : "MID"
+          },
+          {
+            "id": "106267600924403194",
+            "nombre": "Rahel",
+            "club": "DSG",
+            "imagen": "http://static.lolesports.com/players/1737735031415_rahel.png",
+            "role": "ADC"
+          },
+          {
+            "id": "105501712240139757",
+            "nombre": "Castle",
+            "club": "DSG",
+            "imagen": "http://static.lolesports.com/players/1739478502134_ggsdgs67.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "106857834302830803",
+            "nombre": "eXyu",
+            "club": "DSG",
+            "imagen": "http://static.lolesports.com/players/1739478623419_ggsdgs0.png",
+            "role" : "JG"
+          },
+          {
+            "id": "98926509793730393",
+            "nombre": "huhi",
+            "club": "DSG",
+            "imagen": "http://static.lolesports.com/players/1739478876354_ggsdgs8.png",
+            "role" : "SUPP"
+          },
+          {
+            "id": "99101098218071815",
+            "nombre": "Blaber",
+            "club": "C9",
+            "imagen": "http://static.lolesports.com/players/1739477380185_ggsdgsd.png",
+            "role" : "JG"
+          },
+          {
+            "id": "105501816646382923",
+            "nombre": "Thanatos",
+            "club": "C9",
+            "imagen": "http://static.lolesports.com/players/1739476937623_image13.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "108567314915334762",
+            "nombre": "Loki ",
+            "club": "C9",
+            "imagen": "http://static.lolesports.com/players/1739477209687_headsshot.png",
+            "role" : "MID"
+          },
+          {
+            "id": "98767991801635485",
+            "nombre": "Zven",
+            "club": "C9",
+            "imagen": "http://static.lolesports.com/players/1739477500671_ggsdgs1.png",
+            "role": "ADC"
+          },
+          {
+            "id": "99101098208825497",
+            "nombre": "Vulcan",
+            "club": "C9",
+            "imagen": "http://static.lolesports.com/players/1739477742600_ggsdgs12.png",
+            "role" : "SUPP"
+          },
+           {
+            "id": "107577677538574806",
+            "nombre": "Zamudo",
+            "club": "LYON",
+            "imagen": "http://static.lolesports.com/players/1633033031951_silhouette.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "98767975971974446",
+            "nombre": "Oddielan",
+            "club": "LYON",
+            "imagen": "http://static.lolesports.com/players/1739479089984_ggsdgs5.png",
+            "role" : "JG"
+          },
+          {
+            "id": "107492059066783320",
+            "nombre": "Saint",
+            "club": "LYON",
+            "imagen": "http://static.lolesports.com/players/1739479237170_ggsdgs4.png",
+            "role" : "MID"
+          },
+          {
+            "id": "107583616307712318",
+            "nombre": "Lyonz",
+            "club": "LYON",
+            "imagen": "http://static.lolesports.com/players/1739479327358_ggsdgs41.png",
+            "role" : "SUPP"
+          },
+          {
+            "id": "105320670306436651",
+            "nombre": "Hena",
+            "club": "LYON",
+            "imagen": "http://static.lolesports.com/players/1718364485818_FOX_Hena_784.PNG",
+            "role": "ADC"
+          },
+           {
+            "id": "98767991746528652",
+            "nombre": "Impact",
+            "club": "TL",
+            "imagen": "http://static.lolesports.com/players/1726214749557_TL_1500x1500_IMPACT_02.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "105957619949286329",
+            "nombre": "APA",
+            "club": "TL",
+            "imagen": "http://static.lolesports.com/players/1726214761765_TL_1500x1500_APA_04.png",
+            "role" : "MID"
+          },
+          {
+            "id": "105510944671654183",
+            "nombre": "Yeon",
+            "club": "TL",
+            "imagen": "http://static.lolesports.com/players/1726214767306_TL_1500x1500_YEON_03.png",
+            "role": "ADC"
+          },
+          {
+            "id": "107424990007380124",
+            "nombre": "Yuuji",
+            "club": "TL",
+            "imagen": "http://static.lolesports.com/players/1674833289175_FLY_YUUJI.png",
+            "role" : "JG"
+          },
+          {
+            "id": "98767991789638893",
+            "nombre": "CoreJJ",
+            "club": "TL",
+            "imagen": "http://static.lolesports.com/players/1726214772049_TL_1500x1500_COREJJ_03.png",
+            "role" : "SUPP"
+          },
+          {
+            "id": "107569568015156338",
+            "nombre": "Sniper",
+            "club": "100T",
+            "imagen": "http://static.lolesports.com/players/1726211940513_100_1500x1500_SNIPER_01.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "107492071007218117",
+            "nombre": "Quid",
+            "club": "100T",
+            "imagen": "http://static.lolesports.com/players/1726211928725_100_1500x1500_QUID_01.png",
+            "role" : "MID"
+          },
+          {
+            "id": "104573330241006058",
+            "nombre": "River",
+            "club": "100T",
+            "imagen": "http://static.lolesports.com/players/1726211934512_100_1500x1500_RIVER_01.png",
+            "role" : "JG"
+          },
+          {
+            "id": "101383792840788117",
+            "nombre": "Eyla",
+            "club": "100T",
+            "imagen": "http://static.lolesports.com/players/1726211901330_100_1500x1500_EYLA_01.png",
+            "role" : "SUPP"
+          },
+          {
+            "id": "99566406314527111",
+            "nombre": "FBI",
+            "club": "100T",
+            "imagen": "http://static.lolesports.com/players/1739516248097_ggsdgs5.png",
+            "role": "ADC"
+          },
+           {
+            "id": "101388912784979237",
+            "nombre": "Bvoy",
+            "club": "SR",
+            "imagen": "http://static.lolesports.com/players/1739479753154_ggsdgs2.png",
+            "role": "ADC"
+          },
+          {
+            "id": "102206337829139149",
+            "nombre": "Fudge",
+            "club": "SR",
+            "imagen": "http://static.lolesports.com/players/1739479418626_ggsdgs3.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "98767975969375854",
+            "nombre": "Contractz",
+            "club": "SR",
+            "imagen": "http://static.lolesports.com/players/1739479571030_ggsdgs2.png",
+            "role" : "JG"
+          },
+          {
+            "id": "99101098225032611",
+            "nombre": "Palafox",
+            "firstName": "Cristian",
+            "club": "SR",
+            "imagen": "http://static.lolesports.com/players/1739479665255_ggsdgs21.png",
+            "role" : "MID"
+          },
+          {
+            "id": "101383793153915529",
+            "nombre": "Ceos",
+            "club": "SR",
+            "imagen": "http://static.lolesports.com/players/1739479848530_ggsdgs11.png",
+            "role" : "SUPP"
+          },
+          {
+            "id": "103619615096612421",
+            "nombre": "Keine",
+            "club": "DIG",
+            "imagen": "http://static.lolesports.com/players/1739478092400_ggsdgsgg.png",
+            "role" : "MID"
+          },
+          {
+            "id": "104151010613801698",
+            "nombre": "Tomo",
+            "club": "DIG",
+            "imagen": "http://static.lolesports.com/players/1739478216793_ggsdgs321.png",
+            "role": "ADC"
+          },
+          {
+            "id": "108316130077640774",
+            "nombre": "Sheiden",
+            "club": "DIG",
+            "imagen": "http://static.lolesports.com/players/1674832481757_EG_SHEIDEN.png",
+            "role" : "JG"
+          },
+          {
+            "id": "105913339633194822",
+            "nombre": "Srtty",
+            "club": "DIG",
+            "imagen": "http://static.lolesports.com/players/1739516062006_ggsdgs4.png",
+            "role" : "TOP"
+          },
+          {
+            "id": "98926509799307954",
+            "nombre": "Lira",
+            "club": "DIG",
+            "imagen": "http://static.lolesports.com/players/1739477954329_ggsdgshh.png",
+            "role" : "JG"
+          },
+          {
+            "id": "103103578076943629",
+            "nombre": "Isles",
+            "club": "DIG",
+            "imagen": "http://static.lolesports.com/players/1739478353611_ggsdgs123.png",
+            "role" : "SUPP"
+          }
+]
